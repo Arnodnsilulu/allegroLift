@@ -1469,6 +1469,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 5px;
   position: relative;
   overflow: hidden;
+  gap: 5px;
 }
 
 .pricing .pricing-item h3 {
